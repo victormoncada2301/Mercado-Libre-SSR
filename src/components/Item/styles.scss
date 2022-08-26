@@ -1,0 +1,22 @@
+.details-container {
+  padding: 32px;
+  background-color: #ffffff;
+
+  .btn-blue {
+    background-color: #3483fa;
+  }
+
+  .title {
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+
+  .price {
+    margin-bottom: 40px;
+  }
+  .description {
+    margin-top: 16px;
+    font-size: 14px;
+    color:#999999
+  }
+}
