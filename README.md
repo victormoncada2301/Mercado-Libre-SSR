@@ -24,11 +24,14 @@ https://api.mercadolibre.com/sites/MLA/search?q=
 
 6) Si quieres tener una idea más clara de como funciona la aplicacion te recomiendo tomarte unos minutos y leer el codigo donde ha sido desarrollado con estandares de buenas practicas de programación y una estructura simple del proyecto para agilizar su lectura.
 
+Les adjunto captura de pantallas de la APP
+
+![image](https://user-images.githubusercontent.com/33320681/186971244-fda45d61-1650-4c25-982d-9a37925728e1.png)
+
+![image](https://user-images.githubusercontent.com/33320681/186971291-177bca95-cc1d-47d7-a237-b51cc97388d0.png)
+
 Sin tener mas nada que acotar
 
 Saludos Cordiales...
 
 Victor Moncada
-
-
-![Search](https://user-images.githubusercontent.com/33320681/186970927-e8765fd0-8883-45b8-8bcc-78ee435be777.PNG)
