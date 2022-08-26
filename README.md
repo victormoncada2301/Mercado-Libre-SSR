@@ -26,9 +26,8 @@ https://api.mercadolibre.com/sites/MLA/search?q=
 
 Les adjunto screenshots de la aplicación
 
-![image](https://user-images.githubusercontent.com/33320681/186971244-fda45d61-1650-4c25-982d-9a37925728e1.png)
-
-![image](https://user-images.githubusercontent.com/33320681/186971291-177bca95-cc1d-47d7-a237-b51cc97388d0.png)
+![image](https://user-images.githubusercontent.com/33320681/186971841-b8c3e308-48f2-42ca-bef0-3c335e0da93e.png)
+![image](https://user-images.githubusercontent.com/33320681/186971914-f3f14c6b-9215-4dc2-bdc3-c8c8434bc92a.png)
 
 Sin tener mas nada que acotar
 
