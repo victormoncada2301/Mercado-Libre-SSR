@@ -1,4 +1,4 @@
-# App Server Side Rendering - React y Express
+# App Server Side Rendering - React & Express
 
 Paso a seguir para garantizar el correcto funcionamiento
 
